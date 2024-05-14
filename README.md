@@ -1,2 +1,2 @@
 # login-with-signup
-this is login with signup feature
+login with signup feature
